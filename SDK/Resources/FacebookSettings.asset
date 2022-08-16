@@ -16,7 +16,7 @@ MonoBehaviour:
   clientTokens:
   - 
   appIds:
-  - 421239186600478
+  - 0
   appLabels:
   - App Name
   cookie: 1
